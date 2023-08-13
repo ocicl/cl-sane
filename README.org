@@ -5,5 +5,5 @@
 |---------+----------------------------------|
 | source  | git:git://repo.or.cz/cl-sane.git |
 | commit  | d42a6d8                          |
-| systems | (sane)                           |
+| systems | sane                             |
 |---------+----------------------------------|
